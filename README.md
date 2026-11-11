@@ -33,7 +33,7 @@ java interpolacion.Main
 Punto de evaluación: x = 3.0. Resultado esperado en ambos métodos: **1.98**.
 
 ## Descripción de los métodos
- **Lagrange:** P(x) = Σ yᵢ·Lᵢ(x), con Lᵢ(x) = Π_{j≠i} (x − xⱼ)/(xᵢ − xⱼ). Evaluación O(n²).
+ **Lagrange:** P(x) = E yi·Li(x), con Li(x) = Π_{j≠i} (x − xj)/(xi − xj). Evaluación O(n²).
  **Newton:** polinomio en base incremental con coeficientes de la tabla de diferencias divididas. Construcción O(n²), evaluación O(n).
 
 Ambos devuelven el mismo polinomio (único de grado <  n−1); solo cambia su representación y su costo.
