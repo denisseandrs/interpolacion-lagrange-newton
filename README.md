@@ -2,7 +2,7 @@
 **Asignatura:** Métodos Numéricos U5.
 **Institución:** Instituto Tecnológico Superior de Xalapa.
 **Docente:** Víctor Hugo Vásquez Herrera.
-**Alumno:** Andrés Garrido Denisse Itzel.
+**Alumna:** Andrés Garrido Denisse Itzel.
 
 Proyecto en Java que implementa y compara dos formas de construir el polinomio interpolante: el método de Lagrange y el de Diferencias divididas de newton.
 
